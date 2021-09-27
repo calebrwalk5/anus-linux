@@ -1,3 +1,0 @@
-# arcolinuxl-iso
-
-# stable
